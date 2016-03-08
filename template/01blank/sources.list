@@ -1,0 +1,3 @@
+deb http://ftp.sjtu.edu.cn/debian/ testing main
+
+deb http://ftp.sjtu.edu.cn/debian-security/ testing/updates main
